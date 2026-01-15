@@ -1,5 +1,4 @@
 # NodeJS Day 2
-
 A small learning project with examples and exercises for Node.js fundamentals covered on Day 2.
 
 ## Table of contents
